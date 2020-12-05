@@ -7,12 +7,13 @@
 
 ## Gambling vs. Speculating
 
-1. There are two games in our universe: games where the odds are *known* and games where they are *hidden/*.
+1. There are two games in our universe: games where the odds are *known* and games where they are *hidden*.
 2. We can figure out your chances at Roulette. Say, if you picked Red, or the number 13. If you know the rules, all you need to do is simple math. Or… just google it. 
-3. “Rolling the dice” is *not* whatmakes youa gambler. 
+3. “Rolling the dice” is *not* what makes you a gambler. 
 4. *Gambling* is betting when these 3 things are true:
-a.) the odds are /known/, *
-b.) the odds /cannot/ be influenced in your favor,c.)and — most importantly — those odds are /not/ in your favor.
+a.) the odds are *known*, *
+b.) the odds *cannot* be influenced in your favor,
+c.)and — most importantly — those odds are *not* in your favor.
 5. Playing on the opposite side of a gambler is called being a /business/. The casino, like you, is also playing a game of chance — they are betting on the same dice, the same deck of cards. Bound by the same laws of physics… it faces the same, black, curtain of the unknown as you, as that dice hurtles through the air.
 6. All a casino needs is a small advantage (i.e. 51% vs. your 49%) to cross that thin, but deep, chasm in the middle of the table — from “gambler” here to “business” over there.
 7. You do not want to be a degenerate gambler. But if you can be a casino — roll dice for a living!
