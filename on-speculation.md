@@ -2,8 +2,8 @@
 # On Speculation
 *Meditations on a dirty word*
 
-“There is intelligent speculation as there is intelligent investing.” 
-/— The Intelligent Investor (Chapter I), Graham/
+> "There is intelligent speculation as there is intelligent investing.” 
+> The Intelligent Investor (Chapter I), Graham
 
 ## Gambling vs. Speculating
 1. There are two games in our universe: games where the odds are /known/andgames where they are /hidden/.
