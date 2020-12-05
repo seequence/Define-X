@@ -36,7 +36,7 @@ _Underline_
 ::marked::
 
 [This is a link.](on-speculation)
-[Like me doing it](www.amazon.com)
+[Like me doing it](https://www.amazon.com)
 
 Line separator
 ---
