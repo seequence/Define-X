@@ -3,7 +3,7 @@ Thoughts on design, philosophy and markets
 
 
 # shortnsweet
-I will know if it changed.
+ehh??
 
 Markdown
 
@@ -35,7 +35,7 @@ _Underline_
 -Strikethrough-
 ::marked::
 
-[This is a link.](on-speculation.md)
+[This is a link that didn't change?](on-speculation.md)
 [Like me doing it](https://www.amazon.com)
 
 Line separator
