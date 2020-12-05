@@ -35,7 +35,7 @@ _Underline_
 -Strikethrough-
 ::marked::
 
-[This is a link.](on-speculation.html)
+[This is a link.](on-speculation.md)
 [Like me doing it](https://www.amazon.com)
 
 Line separator
