@@ -1,10 +1,12 @@
 
-### On Speculation
+# On Speculation
 *Meditations on a dirty word*
 [image:D9243A06-B78C-419C-9805-BD78CC9F7363-62958-000033C52004AD6F/1*w9YDpurr49cnR7b-1h8lzw.gif]
+
 “There is intelligent speculation as there is intelligent investing.” 
 /— The Intelligent Investor (Chapter I), Graham/
-*Gambling vs. Speculating*
+
+##Gambling vs. Speculating
 1. There are two games in our universe: games where the odds are /known/andgames where they are /hidden/.
 2. We can figure out your chances at Roulette. Say, if you picked Red, or the number 13. If you know the rules, all you need to do is simple math. Or… just google it. 
 3. “Rolling the dice” is *not*whatmakes youa gambler. 
