@@ -1,8 +1,4 @@
-[back to the blog](seequence.github.io/blog)
-
-[test of ./](./)
-
-[test of ../](../)
+[Back to Home](./)
 
 #On Speculation
 
