@@ -7,7 +7,7 @@ ehh??
 
 Markdown
 
-Testing /this is italics/ am I rite?
+Testing / this is italics / am I rite?
 
 ## header 2
 ### Header 3
