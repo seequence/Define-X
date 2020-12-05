@@ -6,10 +6,11 @@
 > The Intelligent Investor (Chapter I), Graham
 
 ## Gambling vs. Speculating
-1. There are two games in our universe: games where the odds are /known/ and games where they are /hidden/.
+
+1. There are two games in our universe: games where the odds are *known* and games where they are *hidden/*.
 2. We can figure out your chances at Roulette. Say, if you picked Red, or the number 13. If you know the rules, all you need to do is simple math. Or… just google it. 
 3. “Rolling the dice” is *not* whatmakes youa gambler. 
-4. /Gambling/ is betting when these 3 things are true:
+4. *Gambling* is betting when these 3 things are true:
 a.) the odds are /known/, *
 b.) the odds /cannot/ be influenced in your favor,c.)and — most importantly — those odds are /not/ in your favor.
 5. Playing on the opposite side of a gambler is called being a /business/. The casino, like you, is also playing a game of chance — they are betting on the same dice, the same deck of cards. Bound by the same laws of physics… it faces the same, black, curtain of the unknown as you, as that dice hurtles through the air.
