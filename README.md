@@ -35,7 +35,7 @@ _Underline_
 -Strikethrough-
 ::marked::
 
-[This is a link.](seequence.github.io/blog/on-speculation)
+[This is a link.](on-speculation)
 [Like me doing it](www.amazon.com)
 
 Line separator
