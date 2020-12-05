@@ -3,7 +3,7 @@ Thoughts on design, philosophy and markets
 
 
 # shortnsweet
-hah
+I will know if it changed.
 
 Markdown
 
